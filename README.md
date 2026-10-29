@@ -3,7 +3,6 @@
 [![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/formsync-google-sheets-connector-contact-form-7?label=version)](https://wordpress.org/plugins/formsync-google-sheets-connector-contact-form-7/)
 [![Rating](https://img.shields.io/wordpress/plugin/rating/formsync-google-sheets-connector-contact-form-7)](https://wordpress.org/plugins/formsync-google-sheets-connector-contact-form-7/#reviews)
 [![Downloads](https://img.shields.io/wordpress/plugin/dt/formsync-google-sheets-connector-contact-form-7)](https://wordpress.org/plugins/formsync-google-sheets-connector-contact-form-7/advanced/)
-[![Active Installs](https://img.shields.io/wordpress/plugin/installs/formsync-google-sheets-connector-contact-form-7)](https://wordpress.org/plugins/formsync-google-sheets-connector-contact-form-7/)
 [![Requires WP](https://img.shields.io/wordpress/plugin/wp-version/formsync-google-sheets-connector-contact-form-7)](https://wordpress.org/plugins/formsync-google-sheets-connector-contact-form-7/)
 [![Requires PHP](https://img.shields.io/wordpress/plugin/required-php/formsync-google-sheets-connector-contact-form-7)](https://wordpress.org/plugins/formsync-google-sheets-connector-contact-form-7/)
 [![License: GPL v2+](https://img.shields.io/badge/License-GPLv2%2B-blue.svg)](LICENSE)
