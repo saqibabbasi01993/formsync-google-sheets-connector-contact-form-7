@@ -1,0 +1,62 @@
+/**
+ * FormSync - Google Sheets Connector for Contact Form 7: admin styles.
+ * Kept minimal so screens look like native WordPress admin pages.
+ */
+
+.skfss-ok { color: #007017; }
+.skfss-bad,
+.skfss-error-text { color: #b32d2e; }
+.skfss-muted { color: #646970; }
+.skfss-small { font-size: 12px; }
+
+.skfss-panel .skfss-status { max-width: 780px; margin: 12px 0 20px; }
+.skfss-panel .skfss-status th { width: 170px; font-weight: 600; }
+.skfss-panel .skfss-status td code { margin-left: 6px; }
+.skfss-panel .skfss-mode-switch label { display: inline-block; margin-right: 18px; }
+.skfss-panel .skfss-select { min-width: 280px; max-width: 100%; }
+.skfss-panel .skfss-id-line { margin: 6px 0 0; color: #646970; }
+.skfss-panel .skfss-actions .button { margin-right: 6px; }
+.skfss-panel .skfss-mapping { max-width: 900px; margin-top: 8px; }
+.skfss-panel .skfss-mapping .skfss-col-order { width: 64px; white-space: nowrap; }
+.skfss-panel .skfss-mapping .skfss-col-send { width: 50px; }
+.skfss-panel .skfss-mapping input[readonly] { background: #f6f7f7; }
+.skfss-panel .skfss-move { padding: 2px 4px; text-decoration: none; }
+.skfss-badge {
+	display: inline-block;
+	margin-left: 6px;
+	padding: 0 6px;
+	border-radius: 3px;
+	background: #f0f0f1;
+	color: #50575e;
+	font-size: 11px;
+	line-height: 18px;
+}
+
+.skfss-message:empty { display: none; }
+.skfss-message.notice { margin: 10px 0; }
+.skfss-checks { margin: 0 0 8px 4px; }
+
+.skfss-block-label { display: block; margin: 4px 0; }
+.skfss-columns { columns: 2 220px; }
+
+.skfss-wrap .skfss-cards { display: flex; flex-wrap: wrap; gap: 16px; margin: 16px 0; }
+.skfss-wrap .skfss-card {
+	flex: 1 1 280px;
+	max-width: 460px;
+	padding: 12px 20px;
+	border: 1px solid #c3c4c7;
+	background: #fff;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+	box-sizing: border-box;
+}
+.skfss-wrap .skfss-card-wide { max-width: 900px; margin: 16px 0; }
+.skfss-wrap .skfss-card h2 { margin-top: 0.5em; }
+.skfss-wrap .skfss-big-number { font-size: 32px; font-weight: 600; margin: 8px 0; }
+.skfss-wrap .skfss-steps li { margin-bottom: 6px; }
+.skfss-wrap .skfss-list { list-style: disc; margin-left: 20px; }
+.skfss-wrap .skfss-disconnect-form { margin-top: 16px; }
+.skfss-wrap .skfss-logs .skfss-context { font-size: 12px; word-break: break-word; }
+.skfss-wrap .skfss-level { text-transform: uppercase; font-size: 11px; font-weight: 600; }
+.skfss-wrap .skfss-level-error .skfss-level { color: #b32d2e; }
+.skfss-wrap .skfss-level-warning .skfss-level { color: #996800; }
+.skfss-wrap .skfss-level-debug .skfss-level { color: #646970; }
